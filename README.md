@@ -1,0 +1,2 @@
+# QuizApplication
+We intend to design the application so that users can take short quizzes. It is a multiple-choice quiz system in which options are provided for each question. Users can only select one option at a time. Users will submit their answers after selecting their answers to all of the questions, and a result or progress report will be displayed, containing the total number of correctly answered questions and points rewarded.
